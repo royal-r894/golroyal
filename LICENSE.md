@@ -1,2 +1,2 @@
-company  
+company  GOLROYAL
 @2025

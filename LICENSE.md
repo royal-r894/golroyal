@@ -3,7 +3,7 @@ company  GOLROYAL
   GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 14  January 2025
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Copyright (C) 2025 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 

@@ -2,4 +2,4 @@
 
 GOLROYAL ( sitio web  casino online )
 
-@ 2024
+@ 2025
